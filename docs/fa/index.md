@@ -7,7 +7,7 @@
 Скачать.
 
 
-![](/sippoon-program/images/pejzazhi-priroda-hdr-fotografii.ipg)
+![Картинка](/sippoon-program/images/pejzazhi-priroda-hdr-fotografii.jpg)
 ## Лицензионный договор
 
 Программа распространятся на условиях лицензии 
